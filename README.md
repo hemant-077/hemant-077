@@ -12,7 +12,7 @@
 - 💻 I’m a **Full Stack Developer**
 - 🌱 Currently learning **System Design & Advanced Backend**
 - 🚀 Building projects using **Java, Spring Boot, React**
-- 📫 Reach me at **Hemant.chhoker.dev@gmaul.com**
+- 📫 Reach me at **Hemant.chhoker.dev@gmail.com**
 
 ---
 
