@@ -85,7 +85,7 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/hemant-chhoker)">
+<a href="https://www.linkedin.com/in/hemant-chhoker">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
